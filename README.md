@@ -1,0 +1,2 @@
+# Automatic-Influency-Process-Variable-Identification
+we develop a framework to identify the influential process variable for a hot rolling process with multiple sensing information installed in multistage rolling processes. The proposed method does not require any significant involvement of highly trained data scientists. A Manufacturing Data Engine (MADE) is structured to achieve data fusion for initial data screening and analysis. It automatically identifies the influential process variables through multiple permutation tests.
